@@ -2,7 +2,6 @@ import React from "react";
 import "./about.css";
 import Me from "../../assets/Suli_ai.jpeg";
 import { FaAward } from "react-icons/fa";
-import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
 
 const About = () => {
